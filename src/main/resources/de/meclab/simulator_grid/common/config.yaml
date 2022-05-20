@@ -1,0 +1,9 @@
+simulation:
+  timestep: 17
+
+grid:
+  rows: 400
+  columns: 800
+
+car:
+  speed: 2.0

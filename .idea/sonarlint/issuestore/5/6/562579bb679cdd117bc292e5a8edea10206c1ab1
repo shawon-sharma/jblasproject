@@ -1,0 +1,8 @@
+
+k	java:S116"QRename this field "m_task" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø›ùÿÿÿÿ
+i	java:S116"URename this field "m_timestep" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯›i
+m	java:S116"SRename this field "m_active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âš£þÿÿÿÿ
+y
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâÞáøÿÿÿÿ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¾‚”
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¾‚”
